@@ -1,0 +1,31 @@
+.container{
+    
+    
+    width: 1600px;
+    margin-left: auto;
+    margin-right: auto;
+    background-color: rgb(255, 255, 255);
+    padding: 30px;
+}
+body{
+    background-color: lightgrey;
+}
+.head1{
+  margin-left: 20px;
+  font-size: 25px;
+}
+.img1{
+    width: 600px;
+    height: 600px;
+}
+.head0{
+    display: flex;
+    gap: 35px;
+}
+.head2{
+    display: flex;
+    gap: 35px;
+    align-items: center;
+    margin-top: 80px;
+    font-size: 25px;
+}
